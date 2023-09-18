@@ -1,4 +1,8 @@
-### Hi there 👋
+##
+- 👋 Hi there, I'm Phuoc!
+- ⚓ I am an active duty Surface Warfare Officer in the US Navy
+- 🎓 I'm currently studying for a Masters of Public Administration with a concentration in International Security Policy and a specialization in Tech, Media & Communications
+- 📬 How to reach me: Phuoc.Hoang@columbia.edu
 
 <!--
 **phuochoang23/phuochoang23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
